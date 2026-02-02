@@ -1,0 +1,29 @@
+SOAL KOMPETITIF PROGRAMMING
+
+1. Buatlah program yang menerima input sebuah bilangan bulat positif N.
+Jika N adalah bilangan Ganjil, tampilkan teks: “Ganjil”.
+Jika N adalah bilangan Genap, tampilkan teks: “Genap”.
+
+2. Tantangan Tambahan: Jika bilangan tersebut habis dibagi 3 dan 5, tampilkan juga teks “Kelipatan 3 & 5”.
+Buatlah program yang menerima input angka N (tinggi segitiga), lalu tampilkan pola segitiga siku-siku terbalik menggunakan karakter bintang (*).
+Contoh Input: 5
+Contoh Output:
+*****
+****
+***
+**
+*
+
+3. Buatlah program yang menerima sebuah kata, lalu tentukan apakah kata tersebut adalah Palindrome (dibaca dari depan dan belakang sama).
+Clue: Anggap Kata adalah Array of Char (Larik 1 Dimensi).
+Contoh: “Katak”(True), “Kasur” (False).
+
+4. Buatlah program yang dapat menjumlahkan dua buah Matriks ordo 2x2.
+Program meminta input 4 angka untuk Matriks A dan 4 angka untuk Matriks B.
+Tampilkan hasil penjumlahan kedua matriks tersebut dalam format baris dan kolom yang rapi.
+
+5. Buatlah sebuah Struct / Tipe Bentukan bernama Mahasiswa yang memiliki atribut:
+Nama (String)
+NIM (String)
+IPK (Float)
+Program meminta user menginput data untuk 1 orang mahasiswa, kemudian menampilkan kembali data tersebut dengan format: “Halo [Nama], dengan NIM [NIM], IPK Anda saat ini adalah [IPK].” 
